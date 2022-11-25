@@ -2,4 +2,4 @@
 
 ## Welcome to Uncode
 
-### We help dev teams run faster
+### We help dev teams run code review
